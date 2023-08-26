@@ -21,10 +21,10 @@ html {
 .clock {
   width: 35rem;
   height: 35rem;
-  background-color: #acacac;
+  background-color: #4574f3;
   border-radius: 50%;
-  border-radius: 0.5rem solid #777;
-  box-shadow: 0.5rem 0.5rem 1rem #555, -0.5rem -0.5rem 1rem #555;
+  border-radius: 0.5rem solid #9b3131;
+  box-shadow: 0.5rem 0.5rem 1rem #494646, -0.5rem -0.5rem 1rem #555;
   position: relative;
 }
 .numbers {
@@ -36,7 +36,7 @@ html {
 .numbers div {
   position: absolute;
   font-size: 2.5rem;
-  color: white;
+  color: rgb(136, 216, 15);
   text-shadow: 0.2rem 0.2rem 0.2rem #222;
 }
 .twelve {
@@ -86,7 +86,7 @@ html {
 .arrows div {
   width: 0.7rem;
   height: 12rem;
-  background-color: #fff0f5;
+  background-color: #b0e319;
   position: absolute;
   bottom: 50%;
   box-shadow: 0.2rem 0.2rem 0.5rem #777;
@@ -100,6 +100,6 @@ html {
 }
 
 .arrows .second {
-  background-color: #24cfe6;
+  background-color: #df0f51;
   transform: rotate(270deg);
 }
